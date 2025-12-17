@@ -1,0 +1,76 @@
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--bg-color);
+}
+
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  border-top-color: var(--primary-color);
+  animation: spin 1s ease-in-out infinite;
+  margin-bottom: 16px;
+}
+
+.loading-text {
+  font-size: 16px;
+  color: var(--text-secondary);
+}
+
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-area {
+  flex: 1;
+  overflow: auto;
+  padding: 24px;
+  background-color: var(--bg-color);
+}
+
+.module-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.module-header {
+  margin-bottom: 24px;
+}
+
+.module-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 8px;
+}
+
+.module-description {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.module-content {
+  background: var(--white);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  padding: 24px;
+  min-height: 500px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .content-area {
+    padding: 16px;
+  }
+  
+  .module-content {
+    padding: 16px;
+  }
+}

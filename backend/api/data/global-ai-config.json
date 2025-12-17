@@ -1,0 +1,1 @@
+{"baseUrl": "https://api.deepseek.com", "apiKey": "sk-9cbd9a74e19649839586b3b6a4ea321b", "modelName": "deepseek-chat", "temperature": 0.7, "maxTokens": 2000, "timeout": 30000, "createdAt": "2025-12-17T22:42:37.000Z", "updatedAt": "2025-12-17T22:42:37.000Z"}

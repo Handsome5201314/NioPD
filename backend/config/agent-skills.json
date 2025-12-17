@@ -1,0 +1,154 @@
+{
+  "nio": {
+    "analysis": 85,
+    "research": 80,
+    "communication": 95,
+    "automation": 70,
+    "creativity": 90,
+    "strategy": 95
+  },
+  "competitor-analyzer": {
+    "analysis": 90,
+    "research": 85,
+    "communication": 70,
+    "automation": 60,
+    "creativity": 75,
+    "strategy": 80
+  },
+  "data-analyst": {
+    "analysis": 95,
+    "research": 70,
+    "communication": 65,
+    "automation": 85,
+    "creativity": 60,
+    "strategy": 75
+  },
+  "feedback-synthesizer": {
+    "analysis": 80,
+    "research": 65,
+    "communication": 90,
+    "automation": 70,
+    "creativity": 75,
+    "strategy": 70
+  },
+  "interview-summarizer": {
+    "analysis": 75,
+    "research": 70,
+    "communication": 95,
+    "automation": 60,
+    "creativity": 65,
+    "strategy": 60
+  },
+  "kpi-tracker": {
+    "analysis": 85,
+    "research": 60,
+    "communication": 75,
+    "automation": 90,
+    "creativity": 55,
+    "strategy": 80
+  },
+  "market-researcher": {
+    "analysis": 80,
+    "research": 95,
+    "communication": 70,
+    "automation": 65,
+    "creativity": 70,
+    "strategy": 85
+  },
+  "persona-generator": {
+    "analysis": 75,
+    "research": 70,
+    "communication": 85,
+    "automation": 60,
+    "creativity": 90,
+    "strategy": 65
+  },
+  "presentation-builder": {
+    "analysis": 70,
+    "research": 60,
+    "communication": 90,
+    "automation": 75,
+    "creativity": 80,
+    "strategy": 75
+  },
+  "roadmap-generator": {
+    "analysis": 80,
+    "research": 65,
+    "communication": 75,
+    "automation": 70,
+    "creativity": 70,
+    "strategy": 90
+  },
+  "story-writer": {
+    "analysis": 65,
+    "research": 60,
+    "communication": 90,
+    "automation": 55,
+    "creativity": 95,
+    "strategy": 70
+  },
+  "faq-generator": {
+    "analysis": 75,
+    "research": 70,
+    "communication": 85,
+    "automation": 65,
+    "creativity": 70,
+    "strategy": 60
+  },
+  "ai-assistant": {
+    "analysis": 80,
+    "research": 75,
+    "communication": 85,
+    "automation": 85,
+    "creativity": 80,
+    "strategy": 75
+  },
+  "automation-engineer": {
+    "analysis": 75,
+    "research": 70,
+    "communication": 70,
+    "automation": 95,
+    "creativity": 75,
+    "strategy": 80
+  },
+  "engineer": {
+    "analysis": 75,
+    "research": 65,
+    "communication": 70,
+    "automation": 90,
+    "creativity": 70,
+    "strategy": 75
+  },
+  "growth-hacker": {
+    "analysis": 80,
+    "research": 85,
+    "communication": 75,
+    "automation": 85,
+    "creativity": 90,
+    "strategy": 85
+  },
+  "project-manager": {
+    "analysis": 70,
+    "research": 65,
+    "communication": 85,
+    "automation": 75,
+    "creativity": 65,
+    "strategy": 85
+  },
+  "qa-analyst": {
+    "analysis": 85,
+    "research": 70,
+    "communication": 80,
+    "automation": 75,
+    "creativity": 60,
+    "strategy": 70
+  },
+  "tech-architect": {
+    "analysis": 85,
+    "research": 75,
+    "communication": 70,
+    "automation": 80,
+    "creativity": 75,
+    "strategy": 85
+  }
+}
